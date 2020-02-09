@@ -20,14 +20,15 @@ h1{
   border-bottom: 2px solid black;
   border-left: 2px solid black;
   /* padding: 1%; */
- 
-
+  background-color: brown;
+  color: aliceblue;
   border-color: black;
   
 }
 
 div > p {
   font-family: sans-serif;
+  
 }
 
 #card{
